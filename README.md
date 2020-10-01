@@ -10,8 +10,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:trishantpahwa@gmail.com)
 [![Sourcerer](https://img.shields.io/badge/Sourcerer-Check%20my%20Developer%20Profile-Green)](https://sourcerer.io/trishantpahwa)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Linkster, a Home Automation project.
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate on Software Development[Open Source].
@@ -19,3 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Captain America sheilds above!
 - 😄 Pronouns: Computer nerd, The Internet kid.
 - ⚡ Fun fact: Let's own some n00bs.
+
+A list of a few of my live projects:
+- [Vehicle Info India API](https://shrouded-falls-48764.herokuapp.com/)   ![Successful Requests](https://img.shields.io/badge/dynamic/json?color=blue&label=Successful%20Requests&query=%24.Success&url=https%3A%2F%2Fshrouded-falls-48764.herokuapp.com%2Flogs%2Fsuccess)
+![Failed Requests](https://img.shields.io/badge/dynamic/json?color=blue&label=Failed%20Requests&query=%24.Failed&url=https%3A%2F%2Fshrouded-falls-48764.herokuapp.com%2Flogs%2Ffailed)
+- [Express API Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.express-generator)
+- [React Component Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.react-component-generator)
+- [Linkster-VoIP](https://linkster-voip.herokuapp.com)
