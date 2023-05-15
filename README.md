@@ -31,5 +31,5 @@ A list of a few of my live projects:
     + [Datasets](https://datasets.advanced-infrastructure.co.uk)
     + [Leo](https://lear.advanced-infrastructure.co.uk)
 - Hybrid Mobile App, Bliss Club
-    +  Android (https://play.google.com/store/apps/details?id=com.blissclub.app)
-    +  iOS (https://apps.apple.com/in/app/blissclub/id6445899199)
+    +  [Android](https://play.google.com/store/apps/details?id=com.blissclub.app)
+    +  [iOS](https://apps.apple.com/in/app/blissclub/id6445899199)
