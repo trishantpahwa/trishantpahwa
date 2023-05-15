@@ -26,3 +26,10 @@ A list of a few of my live projects:
 ![Failed Requests](https://img.shields.io/badge/dynamic/json?color=blue&label=Failed%20Requests&query=%24.Failed&url=https%3A%2F%2Fshrouded-falls-48764.herokuapp.com%2Flogs%2Ffailed)  __Project Deprecated__
 - [Express API Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.express-generator). 
 - [React Component Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.react-component-generator)
+- PWAs and Backend for [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk)
+    + [ReSOP](https://resop.advanced-infrastructure.co.uk)
+    + [Datasets](https://datasets.advanced-infrastructure.co.uk)
+    + [Leo](https://lear.advanced-infrastructure.co.uk)
+- Hybrid Mobile App, Bliss Club
+    +  Android (https://play.google.com/store/apps/details?id=com.blissclub.app)
+    +  iOS (https://apps.apple.com/in/app/blissclub/id6445899199)
