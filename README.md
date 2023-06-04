@@ -22,7 +22,6 @@
 A list of a few of my live projects:
 - [Portfolio](https://trishantpahwa.me).  -> It's got out of the world features, that will give you a glimpse about me.
 - [My blog](https://wrec-er.trishantpahwa.me).  -> My blog, the dark CLI-themed blog to showcase my researches and experiences with computer science.
-- [Vehicle Info India API](https://shrouded-falls-48764.herokuapp.com/)   ![Successful Requests](https://img.shields.io/badge/dynamic/json?color=blue&label=Successful%20Requests&query=%24.Success&url=https%3A%2F%2Fshrouded-falls-48764.herokuapp.com%2Flogs%2Fsuccess)
 ![Failed Requests](https://img.shields.io/badge/dynamic/json?color=blue&label=Failed%20Requests&query=%24.Failed&url=https%3A%2F%2Fshrouded-falls-48764.herokuapp.com%2Flogs%2Ffailed)  __Project Deprecated__
 - [Express API Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.express-generator). 
 - [React Component Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.react-component-generator)
