@@ -22,6 +22,9 @@
 A list of a few of my live projects:
 - [Portfolio](https://trishantpahwa.me).  -> It's got out of the world features, that will give you a glimpse about me.
 - [My blog](https://wrec-er.trishantpahwa.me).  -> My blog, the dark CLI-themed blog to showcase my researches and experiences with computer science.
+- Open-Source Contributions
+    + [Dorky](https://npmjs.com/package/dorky)
+    + [ERC](https://npmjs.com/package/ExpressJS-Route-Coverage)
 - [Express API Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.express-generator). 
 - [React Component Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.react-component-generator)
 - PWAs and Backend for [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk)
