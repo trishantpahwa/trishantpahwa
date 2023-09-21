@@ -8,15 +8,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trishant-pahwa-271334173/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/trishantpahwa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:trishantpahwa@gmail.com)
-[![Sourcerer](https://img.shields.io/badge/Sourcerer-Check%20my%20Developer%20Profile-Green)](https://sourcerer.io/trishantpahwa)
 
-- 🔭 I’m currently working on Linkster, a Home Automation project.
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
+- 🔭 I’m currently working on Web, Mobile, Embedded Systems, iOT.
+- 🌱 I’m currently studying about Machine Learning.
 - 👯 I’m looking to collaborate on Software Development[Open Source].
 - 💬 Ask me about a Computer and I start the gossip.
 - 📫 How to reach me: Captain America sheilds above!
-- 😄 Pronouns: Computer nerd, The Internet kid.
-- ⚡ Fun fact: Let's own some n00bs.
+- 😄 Nick-names: Trish, Tishu.
+- ⚡ Fun fact: Let's develop!
 - 😎 Checkout my portfolio at: [trishantpahwa.me](https://trishantpahwa.me).
 
 A list of a few of my live projects:
