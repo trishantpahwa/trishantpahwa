@@ -23,8 +23,8 @@ A list of a few of my live projects:
 - [Portfolio](https://trishantpahwa.me).  -> It's got out of the world features, that will give you a glimpse about me.
 - [My blog](https://wrec-er.trishantpahwa.me).  -> My blog, the dark CLI-themed blog to showcase my researches and experiences with computer science.
 - Open-Source Contributions
-    + [Dorky](https://npmjs.com/package/dorky)
-    + [ERC](https://npmjs.com/package/ExpressJS-Route-Coverage)
+    + [Dorky](https://npmjs.com/package/dorky) [![Total Downloads](https://img.shields.io/npm/dt/dorky.svg)](https://www.npmjs.com/package/dorky) [![Monthly Downloads](https://img.shields.io/npm/dm/dorky.svg)](https://www.npmjs.com/package/dorky)
+    + [ExpressJS-Route-Coverage (ERC)](https://npmjs.com/package/expressjs-route-coverage) [![Total Downloads](https://img.shields.io/npm/dt/expressjs-route-coverage.svg)](expressjs-route-coverage) [![Monthly Downloads](https://img.shields.io/npm/dm/expressjs-route-coverage.svg)](https://www.npmjs.com/package/expressjs-route-coverage)
 - [Express API Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.express-generator). 
 - [React Component Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.react-component-generator)
 - PWAs and Backend for [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk)
