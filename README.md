@@ -24,6 +24,7 @@ A list of a few of my live projects:
 - Open-Source Contributions
     + [Dorky](https://npmjs.com/package/dorky) [![Total Downloads](https://img.shields.io/npm/dt/dorky.svg)](https://www.npmjs.com/package/dorky) [![Monthly Downloads](https://img.shields.io/npm/dm/dorky.svg)](https://www.npmjs.com/package/dorky)
     + [ExpressJS-Route-Coverage (ERC)](https://npmjs.com/package/expressjs-route-coverage) [![Total Downloads](https://img.shields.io/npm/dt/expressjs-route-coverage.svg)](expressjs-route-coverage) [![Monthly Downloads](https://img.shields.io/npm/dm/expressjs-route-coverage.svg)](https://www.npmjs.com/package/expressjs-route-coverage)
+    + [Daakiya-parser](https://npmjs.com/package/daakiya-parser) [![Total Downloads](https://img.shields.io/npm/dt/daakiya-parser.svg)](daakiya-parser) [![Monthly Downloads](https://img.shields.io/npm/dm/daakiya-parser.svg)](https://www.npmjs.com/package/daakiya-parser)
 - [Express API Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.express-generator). 
 - [React Component Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.react-component-generator)
 - PWAs and Backend for [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk)
