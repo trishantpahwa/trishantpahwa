@@ -1,39 +1,115 @@
-## Hi 👋, I'm Trishant Pahwa, a Software Developer ##
+## Hi 👋 I’m Trishant Pahwa  
+### Senior Software Engineer • Architect • Open-Source Builder 🚀
 
-<!--
-**trishantpahwa/trishantpahwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I design, build, and scale **production-grade systems** — from backend architectures and DevOps pipelines to developer tools and embedded systems.
+
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=trishantpahwa.visitor-badge)](https://github.com/trishantpahwa)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/trishantpahwa)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trishant-pahwa-271334173/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/trishantpahwa/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:trishantpahwa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/trishantpahwa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishant-pahwa-271334173/)
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/trishantpahwa/)
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:trishantpahwa@gmail.com)
 
-- 🔭 I’m currently working on Web, Mobile, Embedded Systems, iOT.
-- 🌱 I’m currently studying about AI.
-- 👯 I’m looking to collaborate on Software Development[Open Source].
-- 💬 Ask me about a Computer and I start the gossip.
-- 📫 How to reach me: Captain America sheilds above!
-- 😄 Nick-names: Trish, Tishu.
-- ⚡ Fun fact: Let's develop!
-- 😎 Checkout my portfolio at: [trishantpahwa.me](https://trishantpahwa.me).
+---
 
-A list of a few of my live projects:
-- [Portfolio](https://trishantpahwa.me)
-- [My blog](https://rec-er.trishantpahwa.me)
-- Open-Source Contributions
-    + [Dorky](https://npmjs.com/package/dorky) [![Total Downloads](https://img.shields.io/npm/dt/dorky.svg)](https://www.npmjs.com/package/dorky) [![Monthly Downloads](https://img.shields.io/npm/dm/dorky.svg)](https://www.npmjs.com/package/dorky)
-    + [ExpressJS-Route-Coverage (ERC)](https://npmjs.com/package/expressjs-route-coverage) [![Total Downloads](https://img.shields.io/npm/dt/expressjs-route-coverage.svg)](expressjs-route-coverage) [![Monthly Downloads](https://img.shields.io/npm/dm/expressjs-route-coverage.svg)](https://www.npmjs.com/package/expressjs-route-coverage)
-    + [Daakiya-parser](https://npmjs.com/package/daakiya-parser) [![Total Downloads](https://img.shields.io/npm/dt/daakiya-parser.svg)](daakiya-parser) [![Monthly Downloads](https://img.shields.io/npm/dm/daakiya-parser.svg)](https://www.npmjs.com/package/daakiya-parser)
-- [Express API Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.express-generator). 
-- [React Component Generator](https://marketplace.visualstudio.com/items?itemName=TrishantPahwa.react-component-generator)
-- PWA for [BlissClub](https://blissclub.com)
-    + [iOS](https://apps.apple.com/in/app/blissclub/id6445899199)
-    + [Android](https://play.google.com/store/apps/details?id=com.blissclub.app&hl=en_IN)
-- Backend for [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk)
-    + [ReSOP](https://resop.advanced-infrastructure.co.uk)
-    + [Laep](https://laep.advanced-infrastructure.co.uk)
-- Backend for [ViaVeda](https://viaveda.in)
-- [InvincibleMeta](https://invinciblemeta.ai)
-- Optimization of [InvincibleOcean](https://invincibleocean.com)
-- Frontend and Backend of [BookMyJet](https://bookmyjet.co)
+## 🧠 Who I Am
+
+- 💼 **5+ years** building real-world systems used in production
+- 🌍 **Remote-first engineer** (India 🇮🇳, UK 🇬🇧, EU 🇪🇺 clients)
+- 🧱 Strong in **architecture, scalability & cost optimization**
+- 🛠 Creator of **popular open-source developer tools**
+- 🤝 Led and mentored **multi-team engineering orgs**
+- ⚙️ Obsessed with **clean systems, automation & performance**
+
+> *I enjoy turning complex problems into simple, scalable systems.*
+
+---
+
+## 🧰 Tech Stack (What I Actually Use)
+
+**Frontend**
+- React, Next.js, Flutter, Angular
+- Web performance (Web Vitals, Jest, UX-driven design)
+
+**Backend**
+- Node.js, Express, Django, FastAPI, Flask
+- Microservices, Serverless (AWS Lambda, API Gateway)
+- WebSockets, Kafka, REST, GraphQL
+
+**Databases & Caching**
+- PostgreSQL, MongoDB, Redis, Firebase
+- Neo4j, time-series & analytical data
+
+**DevOps & Cloud**
+- AWS, GCP, DigitalOcean
+- Docker, Dockerode, CI/CD (GitHub Actions, Bitbucket)
+- Bash automation, infra cost optimization
+
+**Embedded / IoT**
+- Raspberry Pi, NodeMCU, Arduino
+- MQTT, HTTP, Linux services
+
+---
+
+## 🏗️ What I’ve Built (Highlights)
+
+### 🔓 Open Source (Real Usage)
+- **[Dorky](https://www.npmjs.com/package/dorky)** – DevOps Records Keeper  
+  > Secure & versioned config management for teams  
+  ![Downloads](https://img.shields.io/npm/dt/dorky.svg)
+
+- **[ExpressJS Route Coverage (ERC)](https://www.npmjs.com/package/expressjs-route-coverage)**  
+  > Auto-generate route documentation directly from Express apps  
+  ![Downloads](https://img.shields.io/npm/dt/expressjs-route-coverage.svg)
+
+- **[Daakiya Parser](https://www.npmjs.com/package/daakiya-parser)**  
+  > Generate Postman collections automatically from backend code
+
+---
+
+### 🛠 Developer Productivity Tools
+- **Express API Generator** (VS Code Extension)
+- **React Component Generator** (VS Code Extension)
+
+---
+
+### 📱 Production Apps & Platforms
+- **BlissClub PWA**
+  - iOS & Android apps serving real customers
+- **Advanced Infrastructure (UK)**
+  - GIS tools, secure serverless backends
+- **Invincible Meta**
+  - High-performance frontend + serverless AWS backend
+- **Crypto Pattern Detection Platform**
+  - Real-time market data, Dockerized infra, WebSockets
+- **BookMyJet**
+  - Full-stack aviation booking platform
+
+---
+
+## 👔 Leadership & Architecture
+
+- 🧭 Former **CTO** — led **3 engineering teams**
+- 🧪 Designed **custom testing & CI/CD frameworks**
+- 🧠 Reviewed architecture, code quality & scalability
+- 📉 Reduced infra costs via **serverless & caching**
+- 🧩 Integrated complex third-party APIs (payments, messaging, trading)
+
+---
+
+## 📊 Philosophy
+
+- Build systems that **scale without drama**
+- Optimize for **clarity > cleverness**
+- Automate everything repeatable
+- Ship, measure, iterate
+
+---
+
+## 🔗 Links
+- 🌐 Portfolio: **[trishantpahwa.me](https://trishantpahwa.me)**
+- ✍️ Blog: **[rec-er.trishantpahwa.me](https://rec-er.trishantpahwa.me)**
+
+---
+
+⭐ If something here helped you — star it, fork it, or reach out.  
+🤝 Always open to collaboration, consulting, and building cool things.
